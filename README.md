@@ -42,4 +42,4 @@
 > Node.js / Express / MySQL / AWS (EC2, RDS)      
 > Third-party-library (jwt, bcrypt 등)     
 >
-> [프로젝트 상세 설명](https://github.com/hwb0218/ya-goodchoice/blob/main/README.md) 
+> [프로젝트 상세 설명](https://github.com/hwb0218/ya-goodchoice/blob/main/README.md) 참고
