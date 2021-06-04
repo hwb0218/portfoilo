@@ -39,7 +39,7 @@
 > 숙소 예약 서비스 (개인 프로젝트)     
 > 개발 기간: 2020.11 ~ 2021.02      
 >
-> 기술 스택
+> 기술 스택     
 > Javascript ES6+ / Pug / CSS     
 > Node.js / Express / MySQL / AWS (EC2, RDS)      
 > Third-party-library (jwt, bcrypt 등)     
