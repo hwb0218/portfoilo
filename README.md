@@ -35,7 +35,7 @@
 > [프로젝트 상세 설명](https://github.com/hwb0218/T4T/blob/master/README.md) 참고
 ---
 
-### 2. [GoodChoice](http://goodchoice.gq/)
+### 2. [GoodChoice](http://3.36.140.38/)
 > 숙소 예약 서비스 (개인 프로젝트)     
 > 개발 기간: 2020.11 ~ 2021.02      
 >
